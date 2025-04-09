@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 324a31aeaec4be948b8fe732f6ad2b5f, type: 3}
-  m_Name: ThirdDialogueLine
+  m_Name: Fifth
   m_EditorClassIdentifier: 
-  speakerName: You
+  speakerName: meow
   dialogueLinesList:
-  - hm!
-  nextLine: {fileID: 11400000, guid: 922819dbece945543bbd3385efd68c1e, type: 2}
+  - boo!
+  nextLine: {fileID: 0}
   choices: []
